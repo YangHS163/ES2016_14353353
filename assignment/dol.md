@@ -1,9 +1,9 @@
 ##picture
 
-![image](Pictures\emb1.png)
-![image](Pictures\emb2.png)
-![image](Pictures\emb3.png)
-![image](Pictures\emb4.png)
+![image](Home\Pictures\emb1.png)
+![image](Home\Pictures\emb2.png)
+![image](Home\Pictures\emb3.png)
+![image](Home\Pictures\emb4.png)
 
 ##explain
 
