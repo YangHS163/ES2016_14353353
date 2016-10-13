@@ -1,9 +1,9 @@
 ##picture
 
-![image](Home\Pictures\emb1.png)
-![image](Home\Pictures\emb2.png)
-![image](Home\Pictures\emb3.png)
-![image](Home\Pictures\emb4.png)
+![image1](https://github.com/YangHS163/ES2016_14353353/blob/master/emb1.png)
+![image2](https://github.com/YangHS163/ES2016_14353353/blob/master/emb2.png)
+![image3](https://github.com/YangHS163/ES2016_14353353/blob/master/emb3.png)
+![image4](https://github.com/YangHS163/ES2016_14353353/blob/master/emb4.png)
 
 ##explain
 
